@@ -1,0 +1,89 @@
+package com.hjy.jrtt;
+
+import org.apache.hadoop.hbase.client.Result;
+import org.apache.hadoop.hbase.io.ImmutableBytesWritable;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.hbase.mapreduce.TableMapper;
+
+import java.io.IOException;
+
+/*
+ * 一个文本作为一条记录
+ * title字符串交给reduce1
+ * content字符串交给reduce2
+ * comment完成拼接,交给reduce3
+ *
+ * */
+class MyMapper extends TableMapper<Text, IntWritable> {
+    private static IntWritable wordNum = new IntWritable();
+    private static Text id = new Text();
+
+    @Override
+    protected void map(ImmutableBytesWritable key, Result value, Context context) throws IOException, InterruptedException {
+//        System.out.println("123wgvadesfaf");
+//        System.out.println(key);
+        id.set(value.getValue("comment".getBytes(), "ttid".getBytes()));
+        String comment = new String(value.getValue("comment".getBytes(), "comment".getBytes()));
+        wordNum.set(comment.length());
+        context.write(id,wordNum);
+        System.out.println(id+", "+wordNum);
+//        context.write();
+//        super.map(key, value, context);
+    }
+//    protected void map(Object key, Text value, Mapper.Context context) throws IOException, InterruptedException {
+//        StringTokenizer itr = new StringTokenizer(value.toString());
+//        IntWritable count = new IntWritable(0);
+//        String s = value.toString().split(" ")[0];
+//        System.out.println(s);
+//
+//        if(s.charAt(0) >= 'a'&& s.charAt(0)<='z'||s.charAt(0)>='A'&&s.charAt(0)<='Z'){
+//            while (itr.hasMoreTokens()) {
+//                s = itr.nextToken();
+//                word.set(s);
+//                System.out.println("mapper: "+word);
+//                count.set(count.get()+1);
+////            context.write(word, count);
+//            }
+//            context.write("English",count);
+//        }else if(s.charAt(0) >= 0x4E00&& s.charAt(0)<=0x9FBF){
+//            while (itr.hasMoreTokens()) {
+//                s = itr.nextToken();
+//                word.set(s);
+//                System.out.println("mapper: "+word);
+//                count.set(count.get()+1);
+////            context.write(word, count);
+//            }
+//            context.write("Chinese",count);
+//        }else{
+//            while (itr.hasMoreTokens()) {
+//                s = itr.nextToken();
+//                word.set(s);
+//                System.out.println("mapper: "+word);
+//                count.set(count.get()+1);
+////            context.write(word, count);
+//            }
+//            context.write("Japanese",count);
+//        StringTokenizer itr = new StringTokenizer(value.toString());
+//        while (itr.hasMoreTokens()) {
+//            String s = itr.nextToken();
+////            if(s.charAt(0) >= 'a'&& s.charAt(0)<='z'||s.charAt(0)>='A'&&s.charAt(0)<='Z'){
+//            if (s.charAt(0) < 128) {
+//                word.set(s);
+//                context.write(word, one);
+//            } else if (s.charAt(0) == '，' || s.charAt(0) == '。' || s.charAt(0) == '、') {
+//                System.out.println("pass");
+//            } else {
+//                for (char x : s.toCharArray()) {
+//                    word.set(x + "");
+//                    if (!(x == '，' || x == '。' || x == '、')) {
+//                        context.write(word, one);
+//                    }
+//
+//                }
+//            }
+//        }
+//    }
+}
+
+
