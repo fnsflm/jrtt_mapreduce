@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="697c20a9-3975-4032-874d-a8bcd714d7da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backup/MyMapper.java. back" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/putHbase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-11-12/map_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-11-12/map_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/getNews.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/backup/getNews.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/js.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/backup/js.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/output/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/output/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/www.toutiao.com.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/backup/www.toutiao.com.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/安徽太和多家医院疑骗保：中介专车接送，医生“量身定做”假病历，没病变“脑梗”，有人一年免费住院9次.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/backup/安徽太和多家医院疑骗保：中介专车接送，医生“量身定做”假病历，没病变“脑梗”，有人一年免费住院9次.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/美国大选“最终章”？选举人团投票，“拜登时代”将开启？.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/backup/美国大选“最终章”？选举人团投票，“拜登时代”将开启？.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/MyMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/MyReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backup/MyReducer.java.back" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/GetNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/GetNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/MyMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/MyReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/getHtmls/GetNews.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/getHtmls/GetNews.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/getHtmls/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/getHtmls/News.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hjy/jrtt/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/jrtt.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget-log" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jrtt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hjy/jrtt/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4650">
+              <caret line="186" column="6" selection-start-line="186" selection-start-column="6" selection-end-line="186" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>article</find>
+      <find>comment</find>
+      <find>gid</find>
+      <find>hadoop</find>
+      <find>hadoop.log.dir</find>
+      <find>Metrics</find>
+      <find>newss</find>
+      <find>HTable</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/data/getNews.ipynb" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/getNews.java" />
+        <option value="$PROJECT_DIR$/src/data/test.html" />
+        <option value="$PROJECT_DIR$/src/data/湖北一女子遭网约车主砍伤并强奸 滴滴：不是平台注册司机.html" />
+        <option value="$PROJECT_DIR$/src/data/66岁成龙压轴走红毯，粉丝冲上来保安差点没拦住，抢麦被指霸气.html" />
+        <option value="$PROJECT_DIR$/src/data/www.toutiao.com.json" />
+        <option value="$PROJECT_DIR$/src/data/js.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/WriteFruitMRReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/ReadFruitMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/MyReducer.java" />
+        <option value="$PROJECT_DIR$/src/data/美国大选“最终章”？选举人团投票，“拜登时代”将开启？.txt" />
+        <option value="$PROJECT_DIR$/src/data/安徽太和多家医院疑骗保：中介专车接送，医生“量身定做”假病历，没病变“脑梗”，有人一年免费住院9次.txt" />
+        <option value="$PROJECT_DIR$/src/data/又传噩耗！主持人余声自曝母亲已离世，儿子刚出生一月母亲就病重.json" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/putHbase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/NewsHadoop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/MyMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/MyReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/NewsNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/News.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/putHbase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/GetNews.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hjy/jrtt/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jrtt" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jrtt" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="147" />
+    <option name="y" value="194" />
+    <option name="width" value="1510" />
+    <option name="height" value="809" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jrtt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jrtt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jrtt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jrtt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jrtt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jrtt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jrtt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jrtt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jrtt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jrtt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jrtt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jrtt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jrtt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jrtt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jrtt" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hjy.jrtt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hjy/jrtt" />
+      <recent name="$PROJECT_DIR$/src/data" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hjy.jrtt" />
+      <recent name="com.hjy.jrtt.getHtmls" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/backup" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hjy/jrtt" />
+      <recent name="$PROJECT_DIR$/src/data/htmls" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hjy.jrtt.Main" />
+      <module name="jrtt" />
+      <option name="PROGRAM_PARAMETERS" value="src/data/input src/data/output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hjy.jrtt.getHtmls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hjy.jrtt.test" />
+      <module name="jrtt" />
+      <option name="PROGRAM_PARAMETERS" value="123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hjy.jrtt.getHtmls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="697c20a9-3975-4032-874d-a8bcd714d7da" name="Default Changelist" comment="" />
+      <created>1607736051872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607736051872</updated>
+      <workItem from="1607736054029" duration="418000" />
+      <workItem from="1607736629397" duration="3671000" />
+      <workItem from="1607745843867" duration="3180000" />
+      <workItem from="1607761160345" duration="4557000" />
+      <workItem from="1607774823993" duration="5072000" />
+      <workItem from="1607828604059" duration="21239000" />
+      <workItem from="1607870082470" duration="3601000" />
+      <workItem from="1607906838488" duration="6888000" />
+      <workItem from="1607926848918" duration="3358000" />
+      <workItem from="1607930462434" duration="3676000" />
+      <workItem from="1607937709755" duration="468000" />
+      <workItem from="1607938199254" duration="22880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78533000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50109893" side_tool="true" weight="0.20257235" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4989011" visible="true" weight="0.16827439" />
+      <window_info id="Favorites" order="6" sideWeight="0.50109893" side_tool="true" weight="0.20257235" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.326284" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4994641" weight="0.22087912" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4994641" weight="0.33186814" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32967034" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.74835163" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005359" side_tool="true" weight="0.5481928" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32997763" />
+      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32967034" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.4994641" weight="0.32527474" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.329582" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.329582" />
+      <window_info anchor="right" id="Database" order="9" weight="0.329582" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backup/MyReducer.java.back</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/backup/ReadFruitMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/美国大选“最终章”？选举人团投票，“拜登时代”将开启？.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/安徽太和多家医院疑骗保：中介专车接送，医生“量身定做”假病历，没病变“脑梗”，有人一年免费住院9次.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/美国大选“最终章”？选举人团投票，“拜登时代”将开启？.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/又传噩耗！主持人余声自曝母亲已离世，儿子刚出生一月母亲就病重.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1049" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/www.toutiao.com.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/js.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="143" column="50" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/3.1.4/hadoop-mapreduce-client-core-3.1.4.jar!/org/apache/hadoop/mapreduce/Job.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="847" selection-start-line="847" selection-end-line="847" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/part-r-00000" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/3.1.4/hadoop-mapreduce-client-core-3.1.4.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/inputMon Dec 14 15:34:53 CST 2020/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 15:40:30 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjy/jrtt/NewsHadoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/3.1.4/hadoop-common-3.1.4.jar!/org/apache/hadoop/io/Text.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="149" column="16" selection-start-line="149" selection-start-column="16" selection-end-line="149" selection-end-column="16" />
+          <folding>
+            <element signature="e#4539#4540#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 19:44:03 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 19:44:03 CST 2020/._SUCCESS.crc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 19:44:03 CST 2020/.part-r-00000.crc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 19:44:03 CST 2020/_SUCCESS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 19:55:52 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 19:55:52 CST 2020/_SUCCESS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/2.3.3/hbase-client-2.3.3.jar!/org/apache/hadoop/hbase/client/Result.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:23:25 CST 2020/_SUCCESS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:25:27 CST 2020/_SUCCESS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:23:25 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:25:27 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105939">
+          <caret line="45" selection-start-line="45" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:25:27 CST 2020/.part-r-00000.crc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:29:42 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/MyReducer.java.back">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="4" selection-start-line="8" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backup/MyMapper.java. back">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:35:57 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:36:51 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:40:59 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:38:02 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:45:06 CST 2020/_SUCCESS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:45:06 CST 2020/.part-r-00000.crc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:45:06 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:50:57 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 20:53:31 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143249" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjy/jrtt/NewsNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/2.3.3/hbase-client-2.3.3.jar!/org/apache/hadoop/hbase/client/HTable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="104" column="22" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/putHbase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/GetNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+            <element signature="method#getTitle#0;class#GetNews#0" />
+            <element signature="method#getContent#0;class#GetNews#0" />
+            <element signature="method#loadPage#0;class#GetNews#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Tue Dec 15 00:08:19 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjy/jrtt/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/output/Mon Dec 14 23:50:54 CST 2020/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4375">
+          <caret line="175" column="7" selection-start-line="175" selection-start-column="7" selection-end-line="175" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjy/jrtt/getHtmls/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hjy/jrtt/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4650">
+          <caret line="186" column="6" selection-start-line="186" selection-start-column="6" selection-end-line="186" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
